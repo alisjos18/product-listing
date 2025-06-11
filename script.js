@@ -3,49 +3,49 @@ const products = [
     id: 1,
     name: "Wireless Headphones",
     price: 2999,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/1.jfif"
+    image: "images/1.jfif"
   },
   {
     id: 2,
     name: "Smart Watch",
     price: 4999,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/2.jfif"
+    image: "images/2.jfif"
   },
   {
     id: 3,
     name: "Bluetooth Speaker",
     price: 1999,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/3.jfif"
+    image: "images/3.jfif"
   },
   {
     id: 4,
     name: "Laptop Stand",
     price: 799,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/4.jfif"
+    image: "images/4.jfif"
   },
   {
     id: 5,
     name: "Phone Tripod",
     price: 499,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/5.jfif"
+    image: "images/5.jfif"
   },
   {
     id: 6,
     name: "USB-C Hub",
     price: 1199,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/6.jfif"
+    image: "images/6.jfif"
   },
   {
     id: 7,
     name: "Portable SSD",
     price: 5599,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/7.jfif"
+    image: "images/7.jfif"
   },
   {
     id: 8,
     name: "Gaming Mouse",
     price: 1499,
-    image: "C:/Users/alisj_w232e84/OneDrive/Desktop/images for programs/20250611/8.jfif"
+    image: "images/8.jfif"
   }
 ];
 
