@@ -3,7 +3,7 @@ const products = [
     id: 1,
     name: "Wireless Headphones",
     price: 2999,
-    image: "images/1.jfif"
+    image: "images/1.jpg"
   },
   {
     id: 2,
